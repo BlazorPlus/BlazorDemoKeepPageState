@@ -9,4 +9,13 @@ The state of Index.razor will be persisted until browser reload.
 The Counter.razor will be expired in 10 seconds if continue switch to more pages.
 
 
+## Install this idea to your app
+
+1 - copy the KeepPageStateRouteView.cs
+
+2 - In App.razor , replace to KeepPageStateRouteView
+
+3 - copy the MainLayout.razor , modify the GetUrlMaxLifeSpan and UI as you like .
+
+
 
