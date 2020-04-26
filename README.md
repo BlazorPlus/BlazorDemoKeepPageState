@@ -8,6 +8,10 @@ The state of Index.razor will be persisted until browser reload.
 
 The Counter.razor will be expired in 10 seconds if continue switch to more pages.
 
+## Advanced Demo : Multiple Tabs of pages 
+
+https://github.com/BlazorPlus/BlazorDemoMultiPagesTab
+
 
 ## Install this idea to your app
 
